@@ -1,7 +1,7 @@
-# markdown_example
-## This is an example of markdown for my class.
+# About Me
+## This is for my final project.
 
-Click [here](setup/README.md) for setup instructions
+Click [here](setup/README.md) for General Info
 ![logo](images/gslogo.png)
 
 
