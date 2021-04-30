@@ -1,8 +1,8 @@
 # About Me
 ## This is for my final project.
 
-Click [here](setup/README.md) for General 
-![logo](images/gslogo.png)
+Click [here](setup/README.md) for General Information
+![logo](images/jimmyscrib.png)
 
 
 ## Reporting Bugs and Contributing Code
