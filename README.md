@@ -2,7 +2,7 @@
 ## This is for my final project.
 
 Click [here](setup/README.md) for General Information
-![logo](images/jimmyscrib.png)
+![logo](images/gslogo.png)
 
 
 ## Reporting Bugs and Contributing Code
