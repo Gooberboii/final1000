@@ -1,7 +1,7 @@
 # About Me
 ## This is for my final project.
 
-Click [here](setup/README.md) for General Info
+Click [here](setup/README.md) for General 
 ![logo](images/gslogo.png)
 
 
