@@ -6,7 +6,7 @@
 
 My name is Zach Porterfield and I am 19 years old. I'm from the Bootheel of Missouri. I have long brown hair and hazel eyes. I really like grilled cheese sandwiches. I recently got a job. My sleep schedule is really messed up because of it but I like it. 
 
-I play a lot of video games with my friends. We play minecraft the most. I revently have gotten into Sea of Thieves and I am really enjoying it. The games I play most consistently is Battlefield and Star Wars Battlefront. Star wars is my favorite movie series. I have been watching them since I can remember.
+I play a lot of video games with my friends. We play *minecraft* the most. I recently have gotten into Sea of Thieves and I am really enjoying it. The games I play most consistently is Battlefield and Star Wars Battlefront. **Star Wars** is my favorite movie series. I have been watching them since I was very young
 
 
 # Star Wars Movie Rankings
